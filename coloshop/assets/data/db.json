@@ -1,0 +1,64 @@
+{
+  "shopping": [
+    {
+      "id": "1",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_1.png",
+      "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+      "price": 520
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_2.png",
+      "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+      "price": 610
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_3.png",
+      "description": "Blue Yeti USB Microphone Blackout Edition",
+      "price": 120
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_4.png",
+      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+      "price": 410
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_5.png",
+      "description": "Pryma Headphones, Rose Gold & Grey",
+      "price": 180
+    },
+    {
+      "id": "6",
+      "imageUrl": "./assets/images/banner_1.jpg",
+      "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+      "price": "520"
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_8.png",
+      "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+      "price": 610
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_10.png",
+      "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+      "price": 410
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://preview.colorlib.com/theme/coloshop/images/product_9.png",
+      "description": "Blue Yeti USB Microphone Blackout Edition",
+      "price": 120
+    },
+    {
+      "id": "10",
+      "imageUrl": "./assets/images/banner_2.jpg",
+      "description": "Pryma Headphones, Rose Gold & Grey",
+      "price": "180"
+    }
+  ]
+}
